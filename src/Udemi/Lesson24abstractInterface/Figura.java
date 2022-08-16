@@ -1,4 +1,4 @@
-package Udemi.Lesson24abstract;
+package Udemi.Lesson24abstractInterface;
 
 abstract class Figura { // jeigu klasėje yra abstraktūs metodai, tai ir pati klasė turi būti abstract.
     // Abstract klasėje gali ir nebūti abstract metodų

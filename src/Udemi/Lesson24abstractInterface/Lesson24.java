@@ -1,4 +1,4 @@
-package Udemi.Lesson24abstract;
+package Udemi.Lesson24abstractInterface;
 
 public class Lesson24 {
 

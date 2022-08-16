@@ -1,4 +1,4 @@
-package Udemi.Lesson24abstract;
+package Udemi.Lesson24abstractInterface;
 
 class Apskritimas extends Figura {
     int kratiniuKiekis = 0;

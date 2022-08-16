@@ -1,4 +1,4 @@
-package Udemi.Lesson12;
+package Udemi.Lesson12switch;
 
 public class Main {
     public static void main(String[] args) {

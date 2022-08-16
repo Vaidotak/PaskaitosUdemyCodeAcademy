@@ -1,4 +1,4 @@
-package Udemi.Lesson24abstract;
+package Udemi.Lesson24abstractInterface;
 
 public class Staciakampis extends Figura{
     int krastine = 8;
