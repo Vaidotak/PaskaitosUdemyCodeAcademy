@@ -58,4 +58,6 @@ interface HelpAble{
 }
 interface MokaPlaukti{
     void plaukti();
+    int a = 10; //kintamieji gali būti tik konstantos
+
 }
