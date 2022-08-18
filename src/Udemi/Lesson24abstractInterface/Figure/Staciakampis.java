@@ -1,6 +1,6 @@
-package Udemi.Lesson24abstractInterface;
+package Udemi.Lesson24abstractInterface.Figure;
 
-public class Staciakampis extends Figura{
+public class Staciakampis extends Figura2D {
     int krastine = 8;
     int krastine2 = 4;
     @Override
@@ -14,6 +14,13 @@ public class Staciakampis extends Figura{
     }
 
 
+    @Override
+    public double getVisibleHeight() {
+        return 0;
+    }
 
-
+    @Override
+    public double getVisibleWeight() {
+        return 0;
+    }
 }

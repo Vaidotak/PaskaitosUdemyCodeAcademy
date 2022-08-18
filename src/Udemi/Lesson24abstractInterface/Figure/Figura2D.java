@@ -1,6 +1,6 @@
-package Udemi.Lesson24abstractInterface;
+package Udemi.Lesson24abstractInterface.Figure;
 
-abstract class Figura { // jeigu klasėje yra abstraktūs metodai, tai ir pati klasė turi būti abstract.
+abstract class Figura2D implements Figura { // jeigu klasėje yra abstraktūs metodai, tai ir pati klasė turi būti abstract.
     // Abstract klasėje gali ir nebūti abstract metodų
 
     // Abstract klasė negali būti final, (metodų private, static irgi nebūna) kintamieji negali būti abstract
