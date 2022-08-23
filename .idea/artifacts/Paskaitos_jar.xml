@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Paskaitos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Paskaitos_jar</output-path>
+    <root id="archive" name="Paskaitos.jar">
+      <element id="module-output" name="Paskaitos" />
+    </root>
+  </artifact>
+</component>
